@@ -177,16 +177,22 @@ Git for version control
 
 ### ⚡ **Quick Start**
 1️⃣ Clone the repository
+```
 git clone https://github.com/yaswanth230755/neetcode-150-solutions.git
 cd neetcode-150-solutions
+```
 
 2️⃣ Compile and run any solution
+```
 g++ -o solution arrays_hashing/two_sum.cpp
 ./solution
+```
 
 3️⃣ Or use C++17 standard
+```
 g++ -std=c++17 -o solution arrays_hashing/two_sum.cpp
 ./solution
+```
 
 
 ---
